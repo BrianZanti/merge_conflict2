@@ -1,1 +1,1 @@
-puts "Hello Multiverse!"
+puts "Hello Omniverse!"
